@@ -184,6 +184,10 @@ body {
     line-height: 24px;
     cursor: pointer;
   }
+
+  .navbar--content:hover{
+    color: rgb(80, 80, 192);
+  }
  
   /* Navbar Styler Ends */
   
