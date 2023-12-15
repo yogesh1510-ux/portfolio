@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./Images/frontend.png",
+      "title": "Front-End",
+      "description": "Proficient in HTML, CSS, JavaScript, and ReactJs, creating engaging web interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./Images/backend.png",
+      "title": "Back-End",
+      "description": "Enthusiastic about back-end development, improving proficiency in Node.js for scalability."
+    },
+    {
+      "id": "3",
+      "src": "./Images/database.png",
+      "title": "Database",
+      "description": "Building knowledge in database design, skilled in SQL and NoSQL for efficient data management."
+    },
+    {
+      "id": "4",
+      "src": "Images/git.png",
+      "title": "Git",
+      "description": "Exploring Git fundamentals for collaborative development, eager to contribute effectively to projects."
+    }
+    ],
+  
+  
+   
+
+    "portfolio":[
+      {
+        "id":"1",
+        "src":"Images/CryptoInfo.png",
+        "title":"CryptoInfo",
+        "websiteSrc":"https://cryptoinfo-theta.vercel.app/",
+        "description":" Crypto Info is the one-stop solution for all your cryptocurrency needs. Whether you're a seasoned trader looking for real-time price updates, a crypto enthusiast seeking the latest news and insights, or someone new to the world of digital assets wanting to learn , Crypto Info has you covered. Explore our comprehensive resources, stay informed, and embark on your crypto journey with confidence"
+      },
+      {
+        "id": "2",
+        "src":"Images/ecommerce.png",
+        "title": "Ecommerce Clone",
+        "websiteSrc":"https://ecommerce-website-app-8824fdf069c3.herokuapp.com/",
+        "description": "Discover the Ecommerce Clone, a feature-rich platform offering a seamless online shopping experience. From intuitive navigation to secure transactions, this clone provides a user-friendly interface for customers. Explore a wide range of products, enjoy hassle-free ordering, and elevate your online shopping experience with the Ecommerce Clone."
+      }
+      
+    ]
+
+  }
+  
