@@ -1,5 +1,6 @@
 import data from "../Components/data.json";
 import { FaGithub } from "react-icons/fa";
+import { MdOpenInNew } from 'react-icons/md';
 
 export default function MyPortfolio() {
   return (
@@ -33,6 +34,7 @@ export default function MyPortfolio() {
               <div>
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
+                <MdOpenInNew style={{ width: '25px', height: '25px',paddingTop:"15px" }} />
               </div>
              
             </div>
