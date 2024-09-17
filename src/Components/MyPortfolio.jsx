@@ -23,7 +23,7 @@ export default function MyPortfolio() {
       </div>
       <div className="portfolio--section--container">
         {data?.portfolio?.map((item, index) => (
-          <a href={item.websiteSrc}>
+          <a href={item.websiteSrc} target="_blank" >
 
           
           <div key={index} className="portfolio--section--card">
